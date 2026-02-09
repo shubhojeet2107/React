@@ -1,0 +1,25 @@
+{
+  "name": "02",
+  "version": "1.0.0",
+  "description": "initialising React",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhojeet2107/React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhojeet2107/React/issues"
+  },
+  "homepage": "https://github.com/shubhojeet2107/React#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
